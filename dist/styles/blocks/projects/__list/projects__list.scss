@@ -1,0 +1,12 @@
+.projects__list {
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 800px;
+    min-height: 80vh;
+}
