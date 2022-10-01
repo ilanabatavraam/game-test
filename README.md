@@ -1,1 +1,0 @@
-##Portfolio page of [Ilana Sandler](https://www.linkedin.com/in/ilanabatavraam/)
